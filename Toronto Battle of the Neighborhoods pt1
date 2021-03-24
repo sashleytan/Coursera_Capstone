@@ -1,0 +1,8 @@
+Introduction/Business Problem:
+Sacramento is a very diverse and growing city and benefits from its diversity with an abundance of restuarants. Businessman Bob wants to open a restaurant
+in Sacramento but needs to decide what type of restaurant. He doesn't want to open a boba shop when Sacramento already has a lot of boba, or a Taco place
+if there are too many other taco places to compete with. He wants to see first where he should open his restaurant, and in that location, what restaurants
+are already there so he knows what type of place he should open. 
+
+Data:
+I will be using data from Foursquare to accomplish this
